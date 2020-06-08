@@ -28,7 +28,6 @@ object Repository {
         } else {
             Result.failure(RuntimeException("Response status is ${placeResponse.status}"))
         }
-
     }
 
 

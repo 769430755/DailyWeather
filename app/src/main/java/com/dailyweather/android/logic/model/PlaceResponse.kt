@@ -1,7 +1,6 @@
 package com.dailyweather.android.logic.model
 
 import android.location.Address
-import android.location.Location
 import com.google.gson.annotations.SerializedName
 
 // 实体类
